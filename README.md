@@ -6,10 +6,11 @@ Este portafolio digital ha sido desarrollado como parte de la asignatura **Siste
 
 ## 📌 Información General
 
-- **Estudiante:** Ruben Enrique Cañizares Miranda  
-- **Asignatura:** Sistemas Operativos III  
-- **Profesor:** Cristian Hernández  
-- **Grupo:** 91R231  
+- **Estudiante:** Ruben Enrique Cañizares Miranda
+- **Universidad:** Universidad Tecnológica de Panamá
+- **Asignatura:** Sistemas Operativos III
+- **Profesor:** Cristian Hernández
+- **Grupo:** 91R231
 - **Período Académico:** I Semestre 2025
 
 ---
