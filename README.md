@@ -47,14 +47,9 @@ Puedes acceder al portafolio digital completo desde el siguiente enlace:
 
 ---
 
-## 🖼️ Capturas (opcional)
-
-Puedes añadir aquí imágenes del portafolio en funcionamiento.
-
----
-
 ## 📁 Estructura del Repositorio
 
+```
 portafolio-so3/
 │
 ├── index.html           # Página principal del portafolio con enlaces a OneDrive
@@ -62,6 +57,7 @@ portafolio-so3/
 └── img/                 # Carpeta que contiene los logos utilizados en la portada
     ├── logo-utp.png     # Logo de la Universidad Tecnológica de Panamá
     └── logo-fisc.png    # Logo de la Facultad de Ingeniería de Sistemas Computacionales
+```
 
 ---
 
