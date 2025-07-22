@@ -57,12 +57,11 @@ Puedes añadir aquí imágenes del portafolio en funcionamiento.
 
 portafolio-so3/
 │
-├── index.html # Página principal del portafolio
-├── README.md # Este archivo
-└── img/
-├── logo-utp.png # Logo institucional UTP
-└── logo-fisc.png # Logo de la Facultad de Ingeniería de Sistemas
-
+├── index.html           # Página principal del portafolio con enlaces a OneDrive
+├── README.md            # Documento descriptivo del proyecto (este archivo)
+└── img/                 # Carpeta que contiene los logos utilizados en la portada
+    ├── logo-utp.png     # Logo de la Universidad Tecnológica de Panamá
+    └── logo-fisc.png    # Logo de la Facultad de Ingeniería de Sistemas Computacionales
 
 ---
 
