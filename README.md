@@ -1,14 +1,14 @@
 # 📁 Portafolio Digital de Sistemas Operativos III
 
-Este portafolio digital ha sido desarrollado como parte de la asignatura **Sistemas Operativos III** de la **Licenciatura en Redes Informáticas**, impartida en la **Universidad Tecnológica de Panamá – Centro Regional de Panamá Oeste (UTP - CRPO)**.
+Este portafolio digital ha sido desarrollado como parte de la asignatura **Sistemas Operativos III** de la **Licenciatura en Redes Informáticas**, impartida en la **Universidad Tecnológica de Panamá, Centro Regional de Panamá Oeste**.
 
 ---
 
 ## 📌 Información General
 
-- **Estudiante:** Rubén Enrique Cañizares Miranda  
+- **Estudiante:** Ruben Enrique Cañizares Miranda  
 - **Asignatura:** Sistemas Operativos III  
-- **Profesor:** Lic. Cristian Hernández  
+- **Profesor:** Cristian Hernández  
 - **Grupo:** 91R231  
 - **Período Académico:** I Semestre 2025
 
@@ -16,7 +16,9 @@ Este portafolio digital ha sido desarrollado como parte de la asignatura **Siste
 
 ## 🧾 Descripción
 
-El portafolio contiene una recopilación de los trabajos, laboratorios, artículos, exámenes parciales, talleres y el proyecto semestral realizados durante el semestre. Cada elemento está estructurado y documentado para evidenciar el aprendizaje progresivo y el desarrollo de competencias en el área de sistemas operativos.
+El portafolio contiene una recopilación de los trabajos, laboratorios, artículos, exámenes parciales, talleres y el proyecto semestral realizados durante el semestre.
+
+Cada elemento está estructurado y documentado para evidenciar el aprendizaje progresivo y el desarrollo de competencias en el área de sistemas operativos.
 
 Los contenidos se encuentran alojados en OneDrive y están enlazados desde la interfaz web publicada en GitHub Pages.
 
