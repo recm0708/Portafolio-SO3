@@ -1,4 +1,4 @@
-# 📁 Portafolio Digital – Sistemas Operativos III
+# 📁 Portafolio Digital de Sistemas Operativos III
 
 Este portafolio digital ha sido desarrollado como parte de la asignatura **Sistemas Operativos III** de la **Licenciatura en Redes Informáticas**, impartida en la **Universidad Tecnológica de Panamá – Centro Regional de Panamá Oeste (UTP - CRPO)**.
 
