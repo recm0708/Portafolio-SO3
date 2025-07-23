@@ -29,7 +29,7 @@ Los contenidos se encuentran alojados en OneDrive y están enlazados desde la in
 
 Puedes acceder al portafolio digital completo desde el siguiente enlace:
 
-👉 **[Ver Portafolio en GitHub Pages](https://recm0708.github.io/Portafolio-SO3/)**
+👉 **[Ver Portafolio en GitHub Pages](https://recm0708.github.io/portafolio-so3/)**
 
 ---
 
